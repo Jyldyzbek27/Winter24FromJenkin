@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="E2E Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/User/IdeaProjects/DemoQAWinter24">
+        <classes>
+            <class name="SelectPageTest"></class>
+            <class name="FrameTest"></class>
+            <class name="WebTablesTest"></class>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/User/IdeaProjects/DemoQAWinter24">
+        <classes>
+            <class name="com.winter24.elements.DemoQATest">
+                <methods>
+                    <include name="textBoxAndSubmit"/>
+                </methods>
+            </class>
+            <class name="com.winter24.elements.DemoQATestCheckBox">
+                <methods>
+                    <include name="checkTestBoxButton"/>
+                </methods>
+            </class>
+            <class name="com.winter24.elements.Exampls">
+                <methods>
+                    <include name="textBoxAndSubmit"/>
+                </methods>
+            </class>
+            <class name="com.winter24.elements.FoodList">
+                <methods>
+                    <include name="koverSamoletTest"/>
+                </methods>
+            </class>
+            <class name="com.winter24.elements.NambaFoodTest">
+                <methods>
+                    <include name="clickFoodNambe"/>
+                </methods>
+            </class>
+            <class name="com.winter24.elements.TextBox">
+                <methods>
+                    <include name="fillTextBoxAndSubmit"/>
+                </methods>
+            </class>
+            <class name="com.winter24.locators.BasicLocators">
+                <methods>
+                    <include name="findByIdTest"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

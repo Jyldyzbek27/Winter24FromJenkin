@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/User/IdeaProjects/DemoQAWinter24">
+        <classes>
+            <class name="TextBoxTest"></class>
+            <class name="MenuTest"></class>
+            <class name="PracticeFormTest"></class>
+        </classes>
+    </test>
+</suite>
