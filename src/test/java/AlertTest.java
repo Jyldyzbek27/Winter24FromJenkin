@@ -24,18 +24,14 @@ public class AlertTest extends BaseTest {
     void alertTest1() throws InterruptedException {
         browserHelper.open(DEMO_QA_HOME_PAGE + ALERT.getEndpoint());
         webElementActions.click(demoQAPages.getAlertPage().confirmAlertBtn);
-        Thread.sleep(3000);
         alertHelper.acceptAlert();
-        Thread.sleep(3000);
     }
 
     @Test(groups = {"E2E", "SQL", "1723"}, description = "Alert test 2")
     void alertTest2() throws InterruptedException {
         browserHelper.open(DEMO_QA_HOME_PAGE + ALERT.getEndpoint());
         webElementActions.click(demoQAPages.getAlertPage().confirmAlertBtn);
-        Thread.sleep(3000);
         alertHelper.acceptAlert();
-        Thread.sleep(3000);
     }
 
 }
