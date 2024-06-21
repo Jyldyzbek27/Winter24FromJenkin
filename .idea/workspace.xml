@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="957a96df-8cfc-4f48-be9e-cab95e722b94" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/resources/app.propeties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/app.propeties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,73 +32,73 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ConfigReader.executor": "Run",
-    "Application.PalindromeChecker.executor": "Run",
-    "Application.SideBarMenu.executor": "Run",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "TestNG.AlertTest.alertTest.executor": "Run",
-    "TestNG.AlertTest.alertTest1.executor": "Run",
-    "TestNG.AlertTest.executor": "Run",
-    "TestNG.BasicLocators.executor": "Run",
-    "TestNG.BasicLocators.findByIdTest.executor": "Run",
-    "TestNG.BrowserHelperTest.executor": "Run",
-    "TestNG.BrowserHelperTest.test123.executor": "Run",
-    "TestNG.ButtonsTest.doubleClickTest.executor": "Run",
-    "TestNG.ButtonsTest.dynamicClick.executor": "Run",
-    "TestNG.ButtonsTest.dynamicClickTest.executor": "Run",
-    "TestNG.ButtonsTest.executor": "Run",
-    "TestNG.ButtonsTest.rightClickTest.executor": "Run",
-    "TestNG.DemoQATest.checkingForMatches.executor": "Run",
-    "TestNG.DemoQATest.executor": "Run",
-    "TestNG.DemoQATest.textBoxAndSubmit.executor": "Run",
-    "TestNG.DemoQATestCheckBox.checkTestBoxButton.executor": "Run",
-    "TestNG.DemoQATestCheckBox.executor": "Run",
-    "TestNG.Exampls.executor": "Run",
-    "TestNG.Exampls.textBoxAndSubmit (1).executor": "Run",
-    "TestNG.Exampls.textBoxAndSubmit.executor": "Run",
-    "TestNG.FoodList.executor": "Run",
-    "TestNG.FoodList.koverSamoletTest.executor": "Run",
-    "TestNG.FoodList.listOfEstablishments.executor": "Run",
-    "TestNG.FoodList.pishpekRest.executor": "Run",
-    "TestNG.FrameTest.doubleClickTest.executor": "Run",
-    "TestNG.FrameTest.executor": "Run",
-    "TestNG.FrameTest.frameTextPrint.executor": "Run",
-    "TestNG.MenuTest.moveToElementTest.executor": "Run",
-    "TestNG.NambaFoodTest (1).executor": "Run",
-    "TestNG.NambaFoodTest (2).executor": "Run",
-    "TestNG.NambaFoodTest (3).executor": "Run",
-    "TestNG.NambaFoodTest (4).executor": "Run",
-    "TestNG.NambaFoodTest.clickFoodNambe.executor": "Run",
-    "TestNG.NambaFoodTest.executor": "Run",
-    "TestNG.PracticeFormTest.executor": "Run",
-    "TestNG.PracticeFormTest.practiceFormTest.executor": "Run",
-    "TestNG.ProgressBarPageTest.executor": "Run",
-    "TestNG.ProgressBarPageTest.progressBarTest.executor": "Run",
-    "TestNG.ProgressBarTest.executor": "Run",
-    "TestNG.SelectDemo.executor": "Run",
-    "TestNG.SelectPageTest.executor": "Run",
-    "TestNG.SelectPageTest.selectPageTest.executor": "Run",
-    "TestNG.SideBarMenuTest.SideBarMenuTest.executor": "Run",
-    "TestNG.TextBox (1).executor": "Run",
-    "TestNG.TextBox (2).executor": "Run",
-    "TestNG.TextBox.executor": "Run",
-    "TestNG.TextBox.fillTextBoxAndSubmit.executor": "Run",
-    "TestNG.TextBox.textBoxTest.executor": "Run",
-    "TestNG.TextBoxTest.executor": "Run",
-    "TestNG.WebTablesTest.executor": "Run",
-    "TestNG.WebTablesTest.webTablesTest.executor": "Run",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ConfigReader.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PalindromeChecker.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SideBarMenu.executor&quot;: &quot;Run&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;TestNG.AlertTest.alertTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.AlertTest.alertTest1.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.AlertTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.BasicLocators.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.BasicLocators.findByIdTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.BrowserHelperTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.BrowserHelperTest.test123.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ButtonsTest.doubleClickTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ButtonsTest.dynamicClick.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ButtonsTest.dynamicClickTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ButtonsTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ButtonsTest.rightClickTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.DemoQATest.checkingForMatches.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.DemoQATest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.DemoQATest.textBoxAndSubmit.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.DemoQATestCheckBox.checkTestBoxButton.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.DemoQATestCheckBox.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Exampls.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Exampls.textBoxAndSubmit (1).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Exampls.textBoxAndSubmit.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.FoodList.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.FoodList.koverSamoletTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.FoodList.listOfEstablishments.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.FoodList.pishpekRest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.FrameTest.doubleClickTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.FrameTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.FrameTest.frameTextPrint.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.MenuTest.moveToElementTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.NambaFoodTest (1).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.NambaFoodTest (2).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.NambaFoodTest (3).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.NambaFoodTest (4).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.NambaFoodTest.clickFoodNambe.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.NambaFoodTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.PracticeFormTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.PracticeFormTest.practiceFormTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ProgressBarPageTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ProgressBarPageTest.progressBarTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ProgressBarTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SelectDemo.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SelectPageTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SelectPageTest.selectPageTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SideBarMenuTest.SideBarMenuTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TextBox (1).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TextBox (2).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TextBox.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TextBox.fillTextBoxAndSubmit.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TextBox.textBoxTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TextBoxTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.WebTablesTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.WebTablesTest.webTablesTest.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\IdeaProjects\DemoQAWinter24" />
@@ -174,6 +174,13 @@
         <item itemvalue="TestNG.BrowserHelperTest" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
