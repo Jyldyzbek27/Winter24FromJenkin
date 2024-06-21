@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="957a96df-8cfc-4f48-be9e-cab95e722b94" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/resources/app.propeties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/app.propeties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2glHLZ1dCfHG1GmnsvkQGh4YZ0e" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ConfigReader.executor": "Run",
+    "Application.PalindromeChecker.executor": "Run",
+    "Application.SideBarMenu.executor": "Run",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.AlertTest.alertTest.executor": "Run",
+    "TestNG.AlertTest.alertTest1.executor": "Run",
+    "TestNG.AlertTest.executor": "Run",
+    "TestNG.BasicLocators.executor": "Run",
+    "TestNG.BasicLocators.findByIdTest.executor": "Run",
+    "TestNG.BrowserHelperTest.executor": "Run",
+    "TestNG.BrowserHelperTest.test123.executor": "Run",
+    "TestNG.ButtonsTest.doubleClickTest.executor": "Run",
+    "TestNG.ButtonsTest.dynamicClick.executor": "Run",
+    "TestNG.ButtonsTest.dynamicClickTest.executor": "Run",
+    "TestNG.ButtonsTest.executor": "Run",
+    "TestNG.ButtonsTest.rightClickTest.executor": "Run",
+    "TestNG.DemoQATest.checkingForMatches.executor": "Run",
+    "TestNG.DemoQATest.executor": "Run",
+    "TestNG.DemoQATest.textBoxAndSubmit.executor": "Run",
+    "TestNG.DemoQATestCheckBox.checkTestBoxButton.executor": "Run",
+    "TestNG.DemoQATestCheckBox.executor": "Run",
+    "TestNG.Exampls.executor": "Run",
+    "TestNG.Exampls.textBoxAndSubmit (1).executor": "Run",
+    "TestNG.Exampls.textBoxAndSubmit.executor": "Run",
+    "TestNG.FoodList.executor": "Run",
+    "TestNG.FoodList.koverSamoletTest.executor": "Run",
+    "TestNG.FoodList.listOfEstablishments.executor": "Run",
+    "TestNG.FoodList.pishpekRest.executor": "Run",
+    "TestNG.FrameTest.doubleClickTest.executor": "Run",
+    "TestNG.FrameTest.executor": "Run",
+    "TestNG.FrameTest.frameTextPrint.executor": "Run",
+    "TestNG.MenuTest.moveToElementTest.executor": "Run",
+    "TestNG.NambaFoodTest (1).executor": "Run",
+    "TestNG.NambaFoodTest (2).executor": "Run",
+    "TestNG.NambaFoodTest (3).executor": "Run",
+    "TestNG.NambaFoodTest (4).executor": "Run",
+    "TestNG.NambaFoodTest.clickFoodNambe.executor": "Run",
+    "TestNG.NambaFoodTest.executor": "Run",
+    "TestNG.PracticeFormTest.executor": "Run",
+    "TestNG.PracticeFormTest.practiceFormTest.executor": "Run",
+    "TestNG.ProgressBarPageTest.executor": "Run",
+    "TestNG.ProgressBarPageTest.progressBarTest.executor": "Run",
+    "TestNG.ProgressBarTest.executor": "Run",
+    "TestNG.SelectDemo.executor": "Run",
+    "TestNG.SelectPageTest.executor": "Run",
+    "TestNG.SelectPageTest.selectPageTest.executor": "Run",
+    "TestNG.SideBarMenuTest.SideBarMenuTest.executor": "Run",
+    "TestNG.TextBox (1).executor": "Run",
+    "TestNG.TextBox (2).executor": "Run",
+    "TestNG.TextBox.executor": "Run",
+    "TestNG.TextBox.fillTextBoxAndSubmit.executor": "Run",
+    "TestNG.TextBox.textBoxTest.executor": "Run",
+    "TestNG.TextBoxTest.executor": "Run",
+    "TestNG.WebTablesTest.executor": "Run",
+    "TestNG.WebTablesTest.webTablesTest.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\DemoQAWinter24" />
+      <recent name="C:\Users\User\IdeaProjects\DemoQAWinter24\src\test\resources\test_suites" />
+      <recent name="C:\Users\User\IdeaProjects\DemoQAWinter24\src\main\resources\drivers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.AlertTest.alertTest1">
+    <configuration name="AlertTest.alertTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DemoQAWinter24" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AlertTest" />
+      <option name="METHOD_NAME" value="alertTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlertTest.alertTest1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DemoQAWinter24" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AlertTest" />
+      <option name="METHOD_NAME" value="alertTest1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BrowserHelperTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DemoQAWinter24" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BrowserHelperTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FrameTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DemoQAWinter24" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FrameTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PracticeFormTest.practiceFormTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DemoQAWinter24" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PracticeFormTest" />
+      <option name="METHOD_NAME" value="practiceFormTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.AlertTest.alertTest1" />
+        <item itemvalue="TestNG.AlertTest.alertTest" />
+        <item itemvalue="TestNG.PracticeFormTest.practiceFormTest" />
+        <item itemvalue="TestNG.FrameTest" />
+        <item itemvalue="TestNG.BrowserHelperTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="957a96df-8cfc-4f48-be9e-cab95e722b94" name="Changes" comment="" />
+      <created>1716265191331</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716265191331</updated>
+    </task>
+    <servers />
+  </component>
+</project>
